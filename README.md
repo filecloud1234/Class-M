@@ -3,6 +3,7 @@
 - Variabels
     - Integer
     - String
+        - F String 
     - Float
     - Boolean
 - Conditions
