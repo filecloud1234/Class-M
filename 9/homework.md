@@ -1,5 +1,6 @@
-# First Excersise
-- More Actions
+# Calculator 
+- More Operations
+- Pageination on history
 
-# Second Excersise
-- 
+# Student management
+- get the personal details and scores
